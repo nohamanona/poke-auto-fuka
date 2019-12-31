@@ -33,6 +33,7 @@ pokemon sword and shield auto egg hatching system
 |b | Button B |
 |r | Button R |
 |p | Button START |
+|q | Screenshot |
 |c | start auto hatching |
 
 
