@@ -38,7 +38,7 @@ Pokemon sword and shield auto egg hatching system.
 
 
 ## Efficiency
-- 34 eggs par a hour (2019/12/25)
+- 34 eggs par a hour (モノズ:Deino)(2019/12/25)
 
 ## Issues
 - 橋の上のNPCにぶつかって止まるときがある
