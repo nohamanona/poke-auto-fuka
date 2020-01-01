@@ -2,7 +2,7 @@
 ![screenshot_1577806093](https://user-images.githubusercontent.com/57222425/71625907-b03a9080-2c2d-11ea-92c7-d930c8b4dd48.png)
 - [video](https://twitter.com/nohamanona/status/1209830781863882754)
 
-pokemon sword and shield auto egg hatching system
+Pokemon sword and shield auto egg hatching system.
 
 ## H/W Requirement
 - [ebith/Switch-Fightstick's README](https://github.com/ebith/Switch-Fightstick/blob/master/README.md)
